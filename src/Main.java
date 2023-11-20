@@ -13,7 +13,7 @@ public class Main {
 
         Bankomat bankomat = new Bankomat(20,50,100);
         bankomat.addMoney(10,30,40);
-        bankomat.minus(10);
+        bankomat.minus(100);
 
     }
 }
